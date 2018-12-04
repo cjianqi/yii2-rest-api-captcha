@@ -12,14 +12,13 @@
     
     
     "require": {
-        "php": ">=5.6",
         "yiisoft/yii2": "*"
         
     },
     
     "autoload": {
         "psr-4": {
-             "cjianqi\\yii2-rest-api-captcha\\": "src"
+             "cjianqi\\yii2-rest-api-captcha\\": ""
         }
     }
 }
