@@ -19,7 +19,7 @@
     
     "autoload": {
         "psr-4": {
-             "cjianqi\\captcha\\": "src"
+             "cjianqi\\yii2-rest-api-captcha\\": "src"
         }
     }
 }
